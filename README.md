@@ -3,7 +3,7 @@
 The only disease that might actually help your career! A cheeky Python package to help you survive technical interviews.
 
 ## Installation
-
+Requires Python v3.6 or better.
 ```bash
 pip install git+https://github.com/David-Ciz/Interviewitis.git
 ```
