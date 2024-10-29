@@ -13,8 +13,8 @@ setup(
     install_requires=[
         "termcolor",
     ],
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="David Číž",
+    author_email="davidciz95@gmail.com",
     description="A cheeky package to help you survive technical interviews",
     long_description=long_description,
     long_description_content_type="text/markdown",
